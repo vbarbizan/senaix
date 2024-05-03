@@ -13,7 +13,7 @@ export default function Start() {
 
       <View style={{alignItems:"center"}}>
         <Text style={style.title}>Seja Bem-Vindo</Text>
-        <Text style={style.subtitle}>O que voce deseja fazer</Text>
+        <Text style={style.subtitle}>O que voce deseja fazer?</Text>
       </View>
 
       <View style={style.texts}>
